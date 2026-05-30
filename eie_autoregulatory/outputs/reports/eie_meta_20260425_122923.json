@@ -1,0 +1,18 @@
+{
+  "eie_min_threshold": 5.0,
+  "seq_len": 15,
+  "num_features": 10,
+  "num_targets": 25,
+  "num_samples": 20000,
+  "shift_index": 10000,
+  "num_epochs": 60,
+  "batch_size": 64,
+  "units_lstm": 64,
+  "learning_rate": 0.001,
+  "timestamp": "20260425_122923",
+  "epochs_completed": 60,
+  "session_time_s": 187.162,
+  "model_path": "C:\\Users\\joeme\\OneDrive\\\u00c1rea de Trabalho\\eie_autoregulatory2\\outputs\\models\\eie_model_20260425_122923.keras",
+  "scaler_path": "C:\\Users\\joeme\\OneDrive\\\u00c1rea de Trabalho\\eie_autoregulatory2\\outputs\\models\\eie_scaler_20260425_122923.pkl",
+  "log_path": "C:\\Users\\joeme\\OneDrive\\\u00c1rea de Trabalho\\eie_autoregulatory2\\outputs\\logs\\eie_log_20260425_122923.csv"
+}
